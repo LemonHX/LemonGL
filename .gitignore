@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+cmake-build-debug/
+*.tga
+CMakeFiles/
+LemonGL
+Makefile
+cmake_install.cmake
+CMakeCache.txt
+.DS_Store
